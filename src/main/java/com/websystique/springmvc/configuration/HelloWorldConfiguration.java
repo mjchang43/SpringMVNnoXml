@@ -18,7 +18,7 @@ public class HelloWorldConfiguration {
         viewResolver.setViewClass(JstlView.class);
         viewResolver.setPrefix("/WEB-INF/views/");
         viewResolver.setSuffix(".jsp");
-        System.out.println("===============================");
+        System.out.println("=======================111111111");
  
         return viewResolver;
     }
